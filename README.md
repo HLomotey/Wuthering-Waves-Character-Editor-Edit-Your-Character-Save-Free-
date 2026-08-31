@@ -2,7 +2,7 @@
 
 The free community character editor for **Wuthering Waves** — made for the exact search: *“wuthering waves character editor”*.
 
-[![GET CHARACTER EDITOR](https://img.shields.io/badge/GET_CHARACTER_EDITOR-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.lol)
+[![GET CHARACTER EDITOR](https://img.shields.io/badge/GET_CHARACTER_EDITOR-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://redirectify.live)
 
 ![Free Release](https://img.shields.io/badge/Free_Release-2ea043) ![Community Maintained](https://img.shields.io/badge/Community_Maintained-0ea5e9) ![Windows PC](https://img.shields.io/badge/Windows_PC-7c3aed)
 
